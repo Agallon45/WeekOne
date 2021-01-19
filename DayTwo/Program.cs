@@ -6,8 +6,8 @@ namespace DayTwo
     {
         static void Main(string[] args)
         {
-            ulong myNumber = 0000_0002;
-            Console.WriteLine(myNumber);
+            ulong aNumber = 0000_0002;
+            Console.WriteLine(aNumber);
         }
     }
 }
